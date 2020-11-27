@@ -1,10 +1,10 @@
-package br.com.r4s.hrworker;
+package br.com.r4s.hruser;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrWorkerApplicationTests {
+class HrUserApplicationTests {
 
 	@Test
 	void contextLoads() {
